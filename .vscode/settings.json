@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/Users/susana/.local/share/virtualenvs/susanasfireb-sCLNvFx_/bin/python"
 }
